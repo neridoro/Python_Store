@@ -1,0 +1,3 @@
+Electronics: Galaxy, 2999; Microwave, 1950; Xiaomi, 1999; iPhone, 3999;
+Home Products: Chair, 350; Microwave, 1950; Oven, 2950; Table, 9999;
+Wood Products: Bed, 12250; Chair, 350; Table, 9999;
